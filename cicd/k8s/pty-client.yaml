@@ -22,7 +22,7 @@ spec:
   - name: pty-client
     image: arhatdev/pty-client:latest
     command:
-    - /app
+    - /pty-client
     - --log=fatal
     # `stdin` and `tty` must be true to get client running properly
     stdin: true
