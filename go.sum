@@ -1,6 +1,8 @@
 cloud.google.com/go v0.26.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
 github.com/bloom42/rz-go v1.2.1 h1:XTRclaggr/E9FEnyWwlAgIigBvmaxCRiGRGCA873wrs=
 github.com/bloom42/rz-go v1.2.1/go.mod h1:+8rkF5N/tFDYDPRDH2YV3aPKdeeVHUNV0CLxdJmM0EQ=
+github.com/bloom42/rz-go v1.2.4 h1:VUqpULJ0oC6T3qMiwX1I2hY/jtf4r3ZYmIizCSvuGRQ=
+github.com/bloom42/rz-go v1.2.4/go.mod h1:+8rkF5N/tFDYDPRDH2YV3aPKdeeVHUNV0CLxdJmM0EQ=
 github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDkc90ppPyw=
 github.com/cloudflare/tableflip v0.0.0-20190201103927-1555bf56e377 h1:9v30lwW2OW5a5ydeeHxuc+viPtSoasRs+oKdupoDjhs=
 github.com/cloudflare/tableflip v0.0.0-20190201103927-1555bf56e377/go.mod h1:erh4dYezoMVbIa52pi7i1Du7+cXOgqNuTamt10qvMoA=

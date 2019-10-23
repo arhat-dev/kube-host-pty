@@ -1,7 +1,7 @@
 module arhat.dev/kube-host-pty
 
 require (
-	github.com/bloom42/rz-go v1.2.1
+	github.com/bloom42/rz-go v1.2.4
 	github.com/cloudflare/tableflip v0.0.0-20190201103927-1555bf56e377
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/fsnotify/fsnotify v1.4.7
