@@ -19,7 +19,7 @@ require (
 	golang.org/x/sys v0.0.0-20190213121743-983097b1a8a3
 	google.golang.org/grpc v1.18.0
 	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect
-	gopkg.in/yaml.v2 v2.2.2
+	gopkg.in/yaml.v2 v2.2.8
 	k8s.io/apiextensions-apiserver v0.0.0-20190211213656-ad1f7d6e571f // indirect
 	k8s.io/apimachinery v0.0.0-20190211211214-4b3b852955eb // indirect
 	k8s.io/apiserver v0.0.0-20190212092109-1a6dcac26015 // indirect
