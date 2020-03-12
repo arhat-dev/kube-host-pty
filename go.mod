@@ -4,7 +4,7 @@ require (
 	github.com/bloom42/rz-go v1.2.1
 	github.com/cloudflare/tableflip v0.0.0-20190201103927-1555bf56e377
 	github.com/davecgh/go-spew v1.1.1 // indirect
-	github.com/fsnotify/fsnotify v1.4.7
+	github.com/fsnotify/fsnotify v1.4.9
 	github.com/gogo/protobuf v1.2.0 // indirect
 	github.com/golang/protobuf v1.2.0
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
